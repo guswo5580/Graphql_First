@@ -1,0 +1,9 @@
+type Query {
+    person : Rick!
+}
+
+type Rick {
+    name :  String!
+    age : Int!
+    gender : String!
+}
